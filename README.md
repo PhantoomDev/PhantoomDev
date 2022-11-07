@@ -28,7 +28,7 @@ software programming, artificial intelegence, machine learning, front end web de
 C, C++, Java, Python
 
 ### full stack web development:
-Node.js, sql, php, html, css, etc.
+Django, Vue, Node.js, sql, php, html, css, etc.
 
 ### misc. programming related
 writing application in assembly (school made us do this so it must be important right? hint: it's not)
