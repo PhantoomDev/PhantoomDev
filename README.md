@@ -1,9 +1,3 @@
-My name is Dharma Siemarga
-
-This is my github page that I use to keep most of my portfolio project because we don't have a good way of determining people's worth.
-
-and thus, this is what you're here for:
-
 ## About me
 I learn stuff fast, do stuff efficiently, work well with other people in project scenario in managing workflow and just being a cog in the machine (I do both).
 
@@ -33,7 +27,7 @@ Django, Vue, Node.js, sql, php, html, css, etc.
 ### misc. programming related
 writing application in assembly (school made us do this so it must be important right? hint: it's not)
 
-## My other skills (hobby stuff)
+## My other skills/hobby
 Image editing and minor illustration with adobe photoshop
 
 graphics design with adobe illustrator
