@@ -18,14 +18,16 @@ you can find specific skillsets within the repo of my project examples.
 ### I know these:
 software programming, artificial intelegence, machine learning, front end web development, back end web development, database management, sql, data structure, object oriented programming, some other stuff that probbaly escape the top of my head.
 
-### application programming:
-C, C++, Java, Python
+### Desktop application programming:
+Qt, C, C++, Python
 
+<!---
 ### full stack web development:
 Django, Vue, Node.js, sql, php, html, css, etc.
+--->
 
-### misc. programming related
-writing application in assembly (school made us do this so it must be important right? hint: it's not)
+### Misc. programming related
+writing application in assembly (school made us do this so it must be important right?)
 
 ## My other skills/hobby
 Image editing and minor illustration with adobe photoshop
