@@ -1,3 +1,7 @@
+<!---
+here's a comment so I dont forget
+--->
+
 ## About me
 I learn stuff fast, do stuff efficiently, work well with other people in project scenario in managing workflow and just being a cog in the machine (I do both).
 
@@ -21,10 +25,10 @@ software programming, artificial intelegence, machine learning, front end web de
 ### Desktop application programming:
 Qt, C, C++, Python
 
-<!---
+
 ### full stack web development:
 Django, Vue, Node.js, sql, php, html, css, etc.
---->
+
 
 ### Misc. programming related
 writing application in assembly (school made us do this so it must be important right?)
