@@ -25,10 +25,10 @@ software programming, artificial intelegence, machine learning, front end web de
 ### Desktop application programming:
 Qt, C, C++, Python
 
-
+<!---
 ### full stack web development:
-Django, Vue, Node.js, sql, php, html, css, etc.
-
+Django, Vue, Angular, Node.js, sql, php, html, css, etc.
+--->
 
 ### Misc. programming related
 writing application in assembly (school made us do this so it must be important right?)
