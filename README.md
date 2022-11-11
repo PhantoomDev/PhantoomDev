@@ -26,7 +26,7 @@ software programming, artificial intelegence, machine learning, front end web de
 Qt, C, C++, Python
 
 
-### full stack web development:
+### Full stack web development:
 Django, Vue, Node.js, sql, php, html, css, etc.
 
 <!---
