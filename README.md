@@ -16,18 +16,22 @@ I was a self-tuaght at basically everything from programming and adobe software 
 
 
 
-## My skills (for more specific examples, check my repo)
-you can find specific skillsets within the repo of my project examples.
+## My skills (check my repo as well)
+- my most important skill: I Google (duckduckgo) things really fast
 
 ### I know these:
 software programming, artificial intelegence, machine learning, front end web development, back end web development, database management, sql, data structure, object oriented programming, some other stuff that probbaly escape the top of my head.
 
 ### Desktop application programming:
-Qt, C, C++, Python
+- Qt
+- C
+- C++
+- Python
 
 
 ### Full stack web development:
-Django, Vue, Node.js, sql, php, html, css, etc.
+- Frameworks like: Django, Vue
+- Node.js, sql, php, html, css, etc.
 
 <!---
 Angular,
