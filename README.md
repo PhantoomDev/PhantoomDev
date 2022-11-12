@@ -12,8 +12,9 @@ I read, write and speak English, Chinese and Japanese
 - Tsinghua University (清华大学) - school of software
 -  +Self-taught in programming outside of uni
 
-**TL;DR, I'm a self-learner that has the standard quality control stamp of the top 10 university in the world.**
 
+<!---I was a self-tuaght at basically everything from programming and adobe software suite until I had the mis-fortune of being enrolled in Tsinghua University（清华大学）, one of the most brutal, back-breaking educational institution that is the equivalent of MIT of China, I went through their software engineering program undergraduate that basically equates to "you now 'officially' know software engineering" despite the idiotic nature of tertiary education in this day and age, in which I learn basically nothing outside of what I already know through online resources.--->
+**TL;DR, I'm a self-learner that has the standard quality control stamp of the top 10 university in the world.**
 
 
 ## My skills (check my repo as well)
