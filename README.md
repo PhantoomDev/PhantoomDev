@@ -28,6 +28,7 @@ software programming, artificial intelegence, machine learning, front end web de
 - Qt
 - C
 - C++
+- Java
 - Python
 
 
