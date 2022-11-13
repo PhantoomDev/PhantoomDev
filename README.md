@@ -33,7 +33,7 @@ software programming, artificial intelegence, machine learning, front end web de
 
 
 ### Full stack web development:
-- Frameworks like: Django, Vue
+- Frameworks like: Flask, Django, Vue
 - Node.js, sql, php, html, css, etc.
 
 <!---
