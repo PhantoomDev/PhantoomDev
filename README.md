@@ -25,11 +25,11 @@ I read, write and speak English, Chinese and Japanese
 software programming, artificial intelegence, machine learning, front end web development, back end web development, database management, sql, data structure, object oriented programming, some other stuff that probbaly escape the top of my head.
 
 ### Desktop application programming:
-- Qt
 - C
 - C++
 - Java
 - Python
+- Qt
 
 
 ### Full stack web development:
