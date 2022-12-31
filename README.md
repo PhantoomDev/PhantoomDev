@@ -3,7 +3,7 @@ here's a comment so I dont forget
 --->
 
 ## About me
-I learn stuff fast, do stuff efficiently, work well with other people in project scenario in managing workflow and just being a cog in the machine (I do both).
+I learn stuff fast, do stuff efficiently, work well with other people in project scenario in managing workflow and/or just being a cog in the machine (I do both).
 
 I read, write and speak English, Chinese and Japanese
 
