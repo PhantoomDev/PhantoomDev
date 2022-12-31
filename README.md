@@ -19,7 +19,8 @@ I read, write and speak English, Chinese and Japanese
 
 
 ## My skills (check my repo as well)
-- my most important skill: I Google (duckduckgo) things really fast
+- My most important skill: I Google (duckduckgo) things really fast
+- I guess the prev skill is not as impressive with charGPT being a thing now, which I also use
 
 ### I know these:
 software programming, artificial intelegence, machine learning, front end web development, back end web development, database management, sql, data structure, object oriented programming, some other stuff that probbaly escape the top of my head.
@@ -35,6 +36,7 @@ software programming, artificial intelegence, machine learning, front end web de
 ### Full stack web development:
 - Frameworks like: Flask, Django, Vue
 - Node.js, sql, php, html, css, etc.
+- Javascript, HTML. CSS
 
 <!---
 Angular,
@@ -43,7 +45,7 @@ Angular,
 ### Misc. programming related
 Assembly
 
-## My other skills/hobby
+## My other misc skills/hobby
 Image editing and minor illustration with adobe photoshop
 
 graphics design with adobe illustrator
