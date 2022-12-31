@@ -23,7 +23,7 @@ I read, write and speak English, Chinese and Japanese
 - I guess the prev skill is not as impressive with charGPT being a thing now, which I also use
 
 ### I know these:
-software programming, artificial intelegence, machine learning, front end web development, back end web development, database management, sql, data structure, object oriented programming, some other stuff that probbaly escape the top of my head.
+software programming, artificial intelegence, machine learning, front end web development, back end web development, database, some other stuff that probbaly escape the top of my head.
 
 ### Desktop application programming:
 - C
