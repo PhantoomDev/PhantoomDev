@@ -5,7 +5,7 @@ here's a comment so I dont forget
 ## About me
 Hi! 👋 Not sure what to say here, I like computer, some say I'm almost like a 🤖 at times, so there's that.
 
-I read, write and speak 🇺🇸Englihs, 🇨🇳Chinese and 🇯🇵Japanese.
+I read, write and speak Englihs, Chinese and Japanese.
 
 
 ## Education background
