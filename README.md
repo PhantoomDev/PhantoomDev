@@ -32,6 +32,9 @@ software programming, artificial intelegence, machine learning, front end + back
 - Python
 - Qt
 
+## Mobile application programming
+- Java
+- Kotlin
 
 ### Full stack web development:
 - Frameworks like: Flask, Django, Vue
