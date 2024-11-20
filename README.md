@@ -5,8 +5,6 @@ here's a comment so I dont forget
 ## About me
 Hi! 👋 Not sure what to say here, I like computer, some say I'm almost like a 🤖 at times, so there's that.
 
-I read, write and speak Englihs, Chinese and Japanese.
-
 <!---
 ## Education background
 - Tsinghua University (清华大学) - school of software
@@ -20,7 +18,6 @@ I was a self-tuaght at basically everything from programming and adobe software 
 
 ## My skills (check my repo as well)
 - My most important skill: I Google (duckduckgo) things really fast
-- I guess the prev skill is not as impressive with chatGPT being a thing now (and now 4), which I also use
 
 ### I know these:
 software programming, artificial intelegence, machine learning, front end + back end web development, database, some other stuff that probbaly escape the top of my head.
