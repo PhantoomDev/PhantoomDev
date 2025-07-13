@@ -15,40 +15,37 @@ I was a self-tuaght at basically everything from programming and adobe software 
 **TL;DR, I'm a self-learner that has the standard quality control stamp of the top 10 university in the world.**
 --->
 
+## 🛠️ Technical Skills
 
-## My skills (check my repo as well)
-- My most important skill: I Google (duckduckgo) things really fast
+**Languages**
+- C++ • Java • Python • C • JavaScript
 
-### I know these:
-software programming, artificial intelegence, machine learning, front end + back end web development, database, some other stuff that probbaly escape the top of my head.
+**Web Development**
+- Frontend: Vue.js, React, HTML/CSS
+- Backend: Node.js, Express, SQL databases
+- Full-stack applications with real-time features
 
-### Desktop application programming:
-- C
-- C++
-- Java
-- Python
-- Qt
+**Systems & Tools**
+- Linux, Git, Docker
+- Operating Systems development (RISC-V)
+- Network Programming
+- Performance Optimization
 
-## Mobile application programming
-- Java
-- Kotlin
+**3D & Graphics**
+- Blender (modeling, rigging, scripting)
+- Graphics pipeline optimization
+- Real-time rendering for VR applications
+- Adobe Creative Suite
 
-### Full stack web development:
-- Frameworks like: Flask, Django, Vue
-- Node.js, sql, php, html, css, etc.
+## 📊 What I'm Working On
 
-<!---
-Angular, React
---->
+- Building scalable web applications
+- Exploring AI/ML integrations
+- Optimizing 3D production pipelines
 
-### Misc. programming related
-Assembly
+## 🎮 Beyond Code
 
-## My other misc skills/hobby
-Image editing and minor illustration with adobe photoshop
+I approach programming like solving puzzles in strategy games - breaking down complex systems into manageable components and optimizing for the best solution. Whether it's reaching high ranks in competitive games or streamlining a database query, I love the challenge of finding efficient solutions.
 
-graphics design with adobe illustrator
 
-video and audio editting.
-
-3D character modelling, sculpting, rigging and texture painting in blender and substance painter
+*"The best code is whatever works"*
